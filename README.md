@@ -486,12 +486,15 @@ La modularité ? qu'est-ce donc ? C'est ce qui va permettre d'arranger/de choisi
 Il existe 3 niveaux de modularité :
 
 1. *Full* Modulaire : Tout les câbles sont séparés de l'alimentation, très pratique pour ne pas avoir pleins de câbles qui traînent et faire un bon cable management.
+
    ![](https://i.imgur.com/gyBCtfR.png)
 
 2. Semi-modulaire : Sur cette disposition, seuls les câbles indispensables sont directement connectés à l'alimentation (24 Pins, 8 Pins Processeur, ect) C'est assez pratique quand on a moins de budget car elles sont moins chères que les Full Modulaire. Assez pratique pour le cable management.
+
    ![](https://i.imgur.com/4bCoUEy.png)
    
 3. Non Modulaire : Tout les câbles sont directement liés à l'alimentation, il n'est pas possible d'en retirer. Souvent ce sont les moins chers et si votre boitier est bien pensé ce n'est pas forcément un mauvais choix. Mais si vous vous souciez beaucoup de l'esthétique de votre machine, c'est à éviter.
+
    ![](https://i.imgur.com/bITNxjD.png)
   
 ## Recommandations et marques
