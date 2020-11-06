@@ -284,12 +284,12 @@ On a pas mal de trucs à prendre en compte, par exemple...
 Contrairement à ce que vous pouvez croire, non ce n'est pas une chaussette un peu courte. C'est l'endroit où vous allez placer votre processeur ! Et selon le modèle de ce processeur le socket va changer. 
 
 - Pour AMD :
-  *Anciens/Obsolètes :AM2+, AM3, AM3+*
-Actuels : AM4 (Ryzen), TR4 (Threadripper)
+  *Anciens/Obsolètes :AM2+, AM3, AM3+*  
+  Actuels : AM4 (Ryzen), TR4 (Threadripper)
   
 - Pour Intel : 
-  *Anciens/Obsolètes : LGA 1155, 1150, 2011*
-Actuels : LGA 1151, LGA 2066, *LGA 1200*
+  *Anciens/Obsolètes : LGA 1155, 1150, 2011*  
+  Actuels : LGA 1151, LGA 2066, *LGA 1200*
   
 Jusqu'ici tout vas bien, il suffit de vérifier la compatibilité avec le processeur.
 
