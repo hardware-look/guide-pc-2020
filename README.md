@@ -567,17 +567,19 @@ Autres conseils : Évitez les vidéo du type 'JE MONTE CE PC DE 10000€' ou tou
 
 Les chaines que je vous recommande pour suivre l'actu, vous renseigner ou avoir des tutos régulièrement :
 
-**+** [Ryan TM](https://bit.ly/3ex0rxz)
-**+** [DiscoverID](https://bit.ly/3p5a1wL)
-**+** [Tech_Sama](https://bit.ly/32k5mNt)
-**+* (En Anglais) [Linus Tech Tips](https://bit.ly/32iRNhc), [Bitwit](https://bit.ly/3k1Udab), [Gamers Nexus](https://bit.ly/3l43eRt) ou [Hardware Unboxed](https://bit.ly/32fBzp5) pour les benchs
+- [Ryan TM](https://bit.ly/3ex0rxz)
+- [DiscoverID](https://bit.ly/3p5a1wL)
+- [Tech_Sama](https://bit.ly/32k5mNt)
+- (En Anglais) [Linus Tech Tips](https://bit.ly/32iRNhc), [Bitwit](https://bit.ly/3k1Udab), [Gamers Nexus](https://bit.ly/3l43eRt) ou [Hardware Unboxed](https://bit.ly/32fBzp5) pour les benchs
 
-**-** French Hardware
-**-** LéoTechMaker
-**-** Les chaines des sites de ventes, sauf pour monter son PC (LDLC, Top Achat) 
-**-** Guillaume (Sauf pour les périphériques externes)
+Aussi, regardez sur les sites tels que [VideoCardz](https://videocardz.com/), [cowcotland](https://www.cowcotland.com/), [tomshardware](https://www.tomshardware.fr/) ou [Overcloking.com](https://overclocking.com/))
 
-Aussi regardez sur les sites tels que [VideoCardz](https://videocardz.com/), [cowcotland](https://www.cowcotland.com/), [tomshardware](https://www.tomshardware.fr/) ou [Overcloking.com](https://overclocking.com/))
+Celles que je ne recommande pas :
+
+- French Hardware
+- LéoTechMaker
+- Les chaines des sites de ventes, sauf pour monter son PC (LDLC, Top Achat)
+- Guillaume (Sauf pour les périphériques externes)
 
 ### Petits conseils d'achat en vitesse :
 
