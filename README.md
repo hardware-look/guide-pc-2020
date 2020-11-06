@@ -60,35 +60,35 @@ Premièrement, pour bien choisir un processeur, il y a plusieurs facteurs à pre
 Bon, pour choisir il faut comprendre le nom des processeurs qu'on voit, sinon ça commence mal.
 
 * Pour Intel : 
-  Exemple : `Intel Core I7-10700k`
-  I7 = Gamme du processeur
-  **10**000 = Génération du Processeur
-  10**700** = Indiquateur de performance
-  Il existe des processeurs ou il y a deux chiffres à la fin. Cela ne concerne que certaines séries spéciales ou processeurs de pc portable.
+  Exemple : `Intel Core I7-10700k`  
+  I7 = Gamme du processeur  
+  **10**000 = Génération du Processeur  
+  10**700** = Indiquateur de performance  
+  Il existe des processeurs ou il y a deux chiffres à la fin. Cela ne concerne que certaines séries spéciales ou processeurs de pc portable.  
   
-  Pour les lettres : 
+  Pour les lettres :  
   
-  F = Sans Processeur Graphique Intégré (ou iGPU)
-  X ou XE = Version "Extreme" donc plus puissante
-  H = Pour pc portable (donc on s'en fout)
-  K = Débloqué (avec possibilité de l'overclocker)
-  Les lettres peuvent être assemblées, par exemple un Intel **KF** sera un processeur débloqué ET sans iGPU
+  F = Sans Processeur Graphique Intégré (ou iGPU)  
+  X ou XE = Version "Extreme" donc plus puissante  
+  H = Pour pc portable (donc on s'en fout)  
+  K = Débloqué (avec possibilité de l'overclocker)  
+  Les lettres peuvent être assemblées, par exemple un Intel **KF** sera un processeur débloqué ET sans iGPU  
   
-* Pour AMD : 
+* Pour AMD :  
 
-    Exemple : `Ryzen 5 3600X`
-    Ryzen 5 = Gamme du processeur
-    **3**600 = Génération
-    3**600** = Indiquateur de performance
+    Exemple : `Ryzen 5 3600X`  
+    Ryzen 5 = Gamme du processeur  
+    **3**600 = Génération  
+    3**600** = Indiquateur de performance  
     
-    Exception ! Il y a parfois deux chiffres à la fin. C'est pour indiquer un niveau de performance plus élevé, par exemple le Ryzen 9 39**50**X est plus puissant que le Ryzen 9 3900X.
+    Exception ! Il y a parfois deux chiffres à la fin. C'est pour indiquer un niveau de performance plus élevé, par exemple le Ryzen 9 39**50**X est plus puissant que le Ryzen 9 3900X.  
     
-    Et les lettres dans tout ça ?
+    Et les lettres dans tout ça ?  
     
-    X et XT = Version plus performante
-    G = Version équipé d'un iGPU
+    X et XT = Version plus performante  
+    G = Version équipé d'un iGPU  
     
-    Aujourd'hui beaucoup de connaisseurs et de pros s'accordent à dire que Ryzen est un meilleur choix. Je vous conseille de faire au cas par cas ou de demander à quelqu'un qui s'y connait si vous n'êtes pas sur.
+    Aujourd'hui beaucoup de connaisseurs et de pros s'accordent à dire que Ryzen est un meilleur choix. Je vous conseille de faire au cas par cas ou de demander à quelqu'un qui s'y connait si vous n'êtes pas sur.  
     
 ## Refroidissement du CPU
 
@@ -100,24 +100,24 @@ Il existe deux options pour refroidir votre CPU :
 
 Voici une liste de quel ventirad je recommande selon chaque gamme de processeur : 
 
- - Ryzen 3 ou I3, le ventirad fourni d'origine est suffisant dans les deux cas, sinon prenez un ventirad entrée de gamme (Optimal: [BeQuiet Pure Rock Slim](https://amzn.to/3oQOO9K))
- - Ryzen 5 ou I5, Pour Ryzen le ventirad fourni suffit, sinon un ventirad entrée de gamme ou milieu de gamme (Optimal: [Cooler Master Hyper 212 black édition](https://amzn.to/3kUXGbR), [Arctic Freezer X7](https://amzn.to/35X2Sph))
- - Ryzen 7 ou I7, Là encore le ventirad Ryzen suffit, sinon un ventirad milieu de gamme (Optimal: [BeQuiet Pure Rock 2](https://amzn.to/35UPDpa), [DeepCool GAMMAXX GT A-RGB](https://amzn.to/3jXQLO0))
- - Ryzen 9 ou I9, le mieux serait un ventirad haut de gamme bien qu'un ventirad milieu de gamme fait l'affaire (Optimal: [Noctua U9S](https://amzn.to/2TMJMN4), [BeQuiet Dark Rock 4](https://amzn.to/3kSu92r))
- - Intel Xeon ou Ryzen Threadripper, Ventirad haut de gamme, et si possible ultra haut de gamme (Optimal: [Noctua NH-D15](https://amzn.to/2TJuys8), [BeQuiet Dark Rock Pro 4](https://amzn.to/2JyLGiF))
+ - Ryzen 3 ou I3, le ventirad fourni d'origine est suffisant dans les deux cas, sinon prenez un ventirad entrée de gamme (Optimal: [BeQuiet Pure Rock Slim](https://amzn.to/3oQOO9K))  
+ - Ryzen 5 ou I5, Pour Ryzen le ventirad fourni suffit, sinon un ventirad entrée de gamme ou milieu de gamme (Optimal: [Cooler Master Hyper 212 black édition](https://amzn.to/3kUXGbR), [Arctic Freezer X7](https://amzn.to/35X2Sph))  
+ - Ryzen 7 ou I7, Là encore le ventirad Ryzen suffit, sinon un ventirad milieu de gamme (Optimal: [BeQuiet Pure Rock 2](https://amzn.to/35UPDpa), [DeepCool GAMMAXX GT A-RGB](https://amzn.to/3jXQLO0))  
+ - Ryzen 9 ou I9, le mieux serait un ventirad haut de gamme bien qu'un ventirad milieu de gamme fait l'affaire (Optimal: [Noctua U9S](https://amzn.to/2TMJMN4), [BeQuiet Dark Rock 4](https://amzn.to/3kSu92r))  
+ - Intel Xeon ou Ryzen Threadripper, Ventirad haut de gamme, et si possible ultra haut de gamme (Optimal: [Noctua NH-D15](https://amzn.to/2TJuys8), [BeQuiet Dark Rock Pro 4](https://amzn.to/2JyLGiF))  
 
-Généralement un ventirad est plus intéressant car moins cher, plus simple à monter et les performances sont très bonnes si vous faites attention à quel ventirad vous choisissez, cependant vous pouvez aussi vous tourner vers...
+Généralement un ventirad est plus intéressant car moins cher, plus simple à monter et les performances sont très bonnes si vous faites attention à quel ventirad vous choisissez, cependant vous pouvez aussi vous tourner vers...  
 
 ### Le Watercooling : 
 
 Il y a plusieurs types de watercooling : 
 
- - Le All In One (ou AIO)
+ - Le All In One (ou AIO)  
    Tout est dans le nom ! Il est déjà assemblé et prêt à être installé. Quelques visses et c'est réglé
- - Le Custom
-   Là c'est le contraire, tout est à faire. Vous devez vous-même choisir et installer les différents tuyeaux et pompes. C'est assez laborieux à faire, mais si c'est bien fait c'est très joli ! (Par contre c'est... $$$)
+ - Le Custom  
+   Là c'est le contraire, tout est à faire. Vous devez vous-même choisir et installer les différents tuyeaux et pompes. C'est assez laborieux à faire, mais si c'est bien fait c'est très joli ! (Par contre c'est... $$$)  
    
-Pour choisir, je vous conseille de voir selon vos goûts, et selon les avis et review du produit. L'important c'est de pas prendre un AIO 120mm (taille du ventilateur) car c'est souvent moins efficace qu'un bon ventirad, mais souvent plus cher.
+Pour choisir, je vous conseille de voir selon vos goûts, et selon les avis et review du produit. L'important c'est de pas prendre un AIO 120mm (taille du ventilateur) car c'est souvent moins efficace qu'un bon ventirad, mais souvent plus cher.  
 
 ## Comparaison :
 
