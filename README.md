@@ -123,22 +123,22 @@ Pour choisir, je vous conseille de voir selon vos goûts, et selon les avis et r
 
 On va voir, en gros, les plus et les moins de ces deux catégories.
 
-Watercooling:
-**+** Performances en théorie les plus élevés (attention, ça dépends des modèles).
-**+** Esthétiquement plus sympa, surtout pour du RGB.
-**+** Généralement très silencieux.
+Watercooling:  
+**+** Performances en théorie les plus élevés (attention, ça dépends des modèles).  
+**+** Esthétiquement plus sympa, surtout pour du RGB.  
+**+** Généralement très silencieux.  
 
-**-** Le prix en particulier pour un custom (même si la tendance est à la baisse pour les AIO).
+**-** Le prix en particulier pour un custom (même si la tendance est à la baisse pour les AIO).  
 
-Ventirad:
-**+** Rapport performance/prix souvent très bon.
-**+** Prix globalement moins élevé.
-**+** Silencieux pour la plus part.
-**+** Plus simple à monter.
+Ventirad:  
+**+** Rapport performance/prix souvent très bon.  
+**+** Prix globalement moins élevé.  
+**+** Silencieux pour la plus part.  
+**+** Plus simple à monter.  
 
-**-** Demande un boitier assez large pour les gros modèles.
+**-** Demande un boitier assez large pour les gros modèles.  
 
-On en a fini avec les processeurs, maintenant regardons comment...
+On en a fini avec les processeurs, maintenant regardons comment...  
 
 # Choisir son GPU
 
@@ -150,22 +150,22 @@ Une Carte Graphique ou GPU est la partie de votre pc qui va s'occuper de faire t
 
 Comme avec le processeur, on va voir comment lire le nom de ces cartes
 
-- Pour NVidia : 
-  Exemple : `NVidia RTX 2080Ti`
-  RTX = Gamme du GPU
-  **20**80 = Génération du GPU
-  20**80** = Indiquateur de performance
-  Ti = Version "Titanium", Non votre carte ne sera pas faite en titanium. Ce nom qu'il s'agit d'une version plus puissante.
-  Super = Version plus puissante mais moins que la Ti (Merci NVidia)
+- Pour NVidia :  
+  Exemple : `NVidia RTX 2080Ti`  
+  RTX = Gamme du GPU  
+  **20**80 = Génération du GPU  
+  20**80** = Indiquateur de performance  
+  Ti = Version "Titanium", Non votre carte ne sera pas faite en titanium. Ce nom qu'il s'agit d'une version plus puissante.  
+  Super = Version plus puissante mais moins que la Ti (Merci NVidia)  
   
-- Pour AMD :
-  Exemple : `AMD RX 5700XT`
-  RX = Gamme
-  **5**700 = Génération
-  5**700** = Indiquateur de performance
-  XT = Version plus puissante
+- Pour AMD :  
+  Exemple : `AMD RX 5700XT`  
+  RX = Gamme  
+  **5**700 = Génération  
+  5**700** = Indiquateur de performance  
+  XT = Version plus puissante  
   
-  Il existait des RX 590/580/ect mais ce sont d'anciennes cartes qui sont maintenant quasi introuvable neuves.
+  Il existait des RX 590/580/ect mais ce sont d'anciennes cartes qui sont maintenant quasi introuvable neuves.  
   
 ## Comment bien choisir ?
 
@@ -204,20 +204,20 @@ Ex: Vous faites du stream? Prenez plutôt une carte Nvidia ! Pour l'encodage du 
    
 Et pour finir, je vais donner les atouts des constructeurs (Nvidia/Amd) selon vos besoins :
 
-- Amd:
-  -Si vous faites une config low-budget, notamment avec les Cpu avec parti     graphique, (Ex : 3400g, 3200g)
-  -Si vous avez un processeur AMD. (uniquement pour les RX 6000 et plus)
-  -Si vous voulez juste un meilleur rapport qualité prix. ~~(à défaut d'avoir des bons drivers)~~
-  -Si vous jouez ou êtes sur linux (là c'est carrément obligatoire)
+- Amd:  
+  -Si vous faites une config low-budget, notamment avec les Cpu avec parti     graphique, (Ex : 3400g, 3200g)  
+  -Si vous avez un processeur AMD. (uniquement pour les RX 6000 et plus)  
+  -Si vous voulez juste un meilleur rapport qualité prix. ~~(à défaut d'avoir des bons drivers)~~  
+  -Si vous jouez ou êtes sur linux (là c'est carrément obligatoire)  
   
-- Nvidia:
-  ~~-Si vous voulez des drivers fiables~~
-  -Si vous voulez des fonctionnalités bonus. (Nvidia Broadcast, RTX Voice)
-  -Si vous êtes un streamer.
-  -Si vous êtes développeur de jeux vidéos. (on parle de triples AAA hein, pas de mods minecraft).
-  -Si vous faites de l'animation par ordinateur. (Plus pour les Quadro)
+- Nvidia:  
+  ~~-Si vous voulez des drivers fiables~~  
+  -Si vous voulez des fonctionnalités bonus. (Nvidia Broadcast, RTX Voice)  
+  -Si vous êtes un streamer.  
+  -Si vous êtes développeur de jeux vidéos. (on parle de triples AAA hein, pas de mods minecraft).  
+  -Si vous faites de l'animation par ordinateur. (Plus pour les Quadro)  
   
-Bon... Vous pouvez enfin faire tourner Minecraft RTX en 4k 120fps... quoique, il manque encore 2-3 composants.
+Bon... Vous pouvez enfin faire tourner Minecraft RTX en 4k 120fps... quoique, il manque encore 2-3 composants.  
 
 # Choisir sa ram
 
@@ -229,10 +229,10 @@ De plus une bonne RAM va permettre d'obtenir plus de performances venant d'autre
 
 Il faut savoir que, comme tout, la taille de mémoire recommandée change au fur et à mesure du temps... Aujourd'hui, voici ce que l'on recommande :
 
-**8 Go** : Bureautique/Navigation internet et des jeux légers. Pas moins c'est le minimum recommandé
-**8Go - 16Go** : Gaming et un peu de multitâche (Bien qu'en dessous de 16Go ce soit compliqué)
-**16Go - 32Go** : Multitâche plus intense (Gros montage et 3D, FX, ou autre)
-**+ de 32Go** : Très grosse production (3D Disney Tier, Montage 4k natif ~~ou encore Pubg en 4k60fps~~) voir serveur.
+**8 Go** : Bureautique/Navigation internet et des jeux légers. Pas moins c'est le minimum recommandé  
+**8Go - 16Go** : Gaming et un peu de multitâche (Bien qu'en dessous de 16Go ce soit compliqué)  
+**16Go - 32Go** : Multitâche plus intense (Gros montage et 3D, FX, ou autre)  
+**+ de 32Go** : Très grosse production (3D Disney Tier, Montage 4k natif ~~ou encore Pubg en 4k60fps~~) voir serveur.  
 
 *Évidemment les tâches inférieures peuvent être réalisées avec une taille supérieur. Exemple : on peut faire du gaming avec 32Go*
 
@@ -248,9 +248,9 @@ La fréquence ou la vitesse de la mémoire vive est (en gros) le nombre d'opéra
 
 Gardez aussi en tête que ces fréquences conseillées sont valables pour la génération de RAM dite 'DDR4' (la plus développée aujourd'hui), sachant que la 'DDR5' va arriver, tout sera mis à jour.
 
-**2133MHz -> 2666MHz** : Bureautique ou gaming léger, c'est peu mais ça passe
-**2666MHz (3000MHz Multitâche) -> 3600MHz** : Gaming triple A mais aussi multitâche (Montage, 3D ect).
-**+ de 3600MHz** : Utilisation demandant énormément de ressources. (ou juste pour flex)
+**2133MHz -> 2666MHz** : Bureautique ou gaming léger, c'est peu mais ça passe  
+**2666MHz (3000MHz Multitâche) -> 3600MHz** : Gaming triple A mais aussi multitâche (Montage, 3D ect).  
+**+ de 3600MHz** : Utilisation demandant énormément de ressources. (ou juste pour flex)  
 
 ### La latence :
 
@@ -258,8 +258,8 @@ Elle se situe entre 10 et 24. On la nomme : CasXX
 
 Le mieux c'est qu'elle soit le plus faible possible, pour simplifier on va vous donner une limite max pour chaque utilisation :
 
-**Bureautique de base** : Pas vraiment important bien qu'à basse fréquence les latences sont souvent faibles
-**Gaming et Multitâche** : Cas18 (Pas plus vraiment)
+**Bureautique de base** : Pas vraiment important bien qu'à basse fréquence les latences sont souvent faibles  
+**Gaming et Multitâche** : Cas18 (Pas plus vraiment)  
 
 Puis pour le reste ça dépends d'une utilisation assez précise, donc il est mieux pour vous de voir au cas par cas avec un connaisseur sur le sujet.
 
@@ -301,13 +301,13 @@ On va commencer par AMD, car oui, le chipset dépend de votre processeur encore 
 
 **Attention** : AMD Permet d'utiliser des anciens chipset avec des processeurs nouvelle génération. En faisant une Mise à Jour du BIOS, grâce à ça vous pourrez utiliser un Ryzen 3000 sur une B450 (mais attention il y a des limites)
 
-**B350**, **X370** : Ryzen 1ère génération, AM4
-**B450**, **X470** : Ryzen 2nd génération, AM4
-**B550**, **X570** : Ryzen 3ème génération, AM4
-**X399** : Threadripper 1ère et 2ème gen, TR4
-**TRX40** : Threadripper 3ème gen, TRX4
+**B350**, **X370** : Ryzen 1ère génération, AM4  
+**B450**, **X470** : Ryzen 2nd génération, AM4  
+**B550**, **X570** : Ryzen 3ème génération, AM4  
+**X399** : Threadripper 1ère et 2ème gen, TR4  
+**TRX40** : Threadripper 3ème gen, TRX4  
 
-Chez AMD les modèles X _70 sont plus performants que les B _50 et intègrent plus de fonctionnalités. Mais ils reviennent donc plus cher.
+Chez AMD les modèles X _70 sont plus performants que les B _50 et intègrent plus de fonctionnalités. Mais ils reviennent donc plus cher.  
 
 NB : Les B550 et X570 profitent du PCIe 4.0. Je vous conseille de vous renseigner sur cette technologie (mais en gros ça transfert les données plus vite)
 
@@ -326,28 +326,28 @@ Parfait ! Maintenant que tout est compatible avec vos composants, on peut passer
 
 Certaines carte mères (souvent haut de gamme) sont pourvues de fonctionnalitées assez sympa, mais lesquelles retenir pour un achat ?
 
-**Double GPU** ou SLI/CrossFire pour les intimes, c'est plus beaucoup utilsé car peu de jeux sont compatible en plus d'offrir un boost de seulement 30%
-**Une Carte WiFi** ça sert toujours même si une carte wifi dédiée sera souvent plus performante.
-**Compatible RGB** notamment avec les technologies type Asus AURA, MSI Mystic, etc...
-**Port PCIe M.2**, ça devient quasi obligatoire maintenant mais c'est mieux de faire attention
-**Nombre de slots RAM** si il y en a 2, 4 ou 8 (2 emplacement ça devient rare mais reste assez présent sur les carte mère format mATX/mini ITX)
-**L'interface I/O ou Ports**, le nombre d'USB, si c'est de l'USB-C ou 3.0, les ports Jack ou ethernet.
+**Double GPU** ou SLI/CrossFire pour les intimes, c'est plus beaucoup utilsé car peu de jeux sont compatible en plus d'offrir un boost de seulement 30%  
+**Une Carte WiFi** ça sert toujours même si une carte wifi dédiée sera souvent plus performante.  
+**Compatible RGB** notamment avec les technologies type Asus AURA, MSI Mystic, etc...  
+**Port PCIe M.2**, ça devient quasi obligatoire maintenant mais c'est mieux de faire attention  
+**Nombre de slots RAM** si il y en a 2, 4 ou 8 (2 emplacement ça devient rare mais reste assez présent sur les carte mère format mATX/mini ITX)  
+**L'interface I/O ou Ports**, le nombre d'USB, si c'est de l'USB-C ou 3.0, les ports Jack ou ethernet.  
 
-Dans une des fonctionnalités je parle de mATX, mais qu'est-ce donc ce mot... c'est ce qu'on va voir tout de suite !
+Dans une des fonctionnalités je parle de mATX, mais qu'est-ce donc ce mot... c'est ce qu'on va voir tout de suite !  
 
 ## Les Différentes Tailles
 
 Là c'est pas trop difficile y'a que 4 tailles :
 
-- **EATX** (ou Extended ATX), Le plus grand des 4, ça passe que dans les gros boitiers (souvent pour les gros processeurs type threadripper ou Intel XE)
-- **ATX**, celui là c'est le plus courant, de taille moyenne, compatible avec 95% des boitiers
-- **mATX** (ou micro ATX), plus petit que l'ATX il est pratique pour des PC plus compacts et souvent bon pour un petit budget car moins cher à modèle ATX équivalent 
-- **Mini ITX**, lui c'est le plus petit, bon pour les PC très compacts, mais pas worth pour le prix.
+- **EATX** (ou Extended ATX), Le plus grand des 4, ça passe que dans les gros boitiers (souvent pour les gros processeurs type threadripper ou Intel XE)  
+- **ATX**, celui là c'est le plus courant, de taille moyenne, compatible avec 95% des boitiers  
+- **mATX** (ou micro ATX), plus petit que l'ATX il est pratique pour des PC plus compacts et souvent bon pour un petit budget car moins cher à modèle ATX équivalent  
+- **Mini ITX**, lui c'est le plus petit, bon pour les PC très compacts, mais pas worth pour le prix.  
 
-**Mentions Honorables :**
-Le XL-ATX, beaucoup trop gros et beaucoup trop cher...
-Mini DTX, j'en ai trouvé qu'une comme ça...
-SSI CEB, ... ... attends quoi ?
+**Mentions Honorables :**  
+Le XL-ATX, beaucoup trop gros et beaucoup trop cher...  
+Mini DTX, j'en ai trouvé qu'une comme ça...  
+SSI CEB, ... ... attends quoi ?  
 
 ## La Performance
 
@@ -369,11 +369,11 @@ Mais déjà il faut différencier les deux technologies de stockage les plus ré
 
 Le Disque Dur, c'est le système plus connu et le plus utilisé, il a un fonctionnement mécanique (plusieurs pièces phyisques qui bougent). Ce système a ses avantages mais aussi ses inconvénients.
 
-**+** Une durée de vie très longue
-**+** Un Rapport Prix/Stockage très bon (35€/40€ Le To (Téraoctet))
+**+** Une durée de vie très longue  
+**+** Un Rapport Prix/Stockage très bon (35€/40€ Le To (Téraoctet))  
 
-**-** Aujourd'hui au bout de ses limites de performance max, qui sont pas si bonnes (plutôt lent)
-**-** Peu résistant au chocs et assez fragile en général
+**-** Aujourd'hui au bout de ses limites de performance max, qui sont pas si bonnes (plutôt lent)  
+**-** Peu résistant au chocs et assez fragile en général  
 
 ## Le SSD
 
@@ -388,11 +388,11 @@ Dans cette même catégorie, il y a aujourd'hui deux formats qui sont disponible
   Il utilise la même technologie que le HDD pour transmettre les données, c'est à dire le SATA 3.
   Ses caractèristiques :
   
-  **+** Bien plus rapide qu'un disque dur. (Environ 4 à 5 fois plus rapide)
-  **+** Prix raisonnable par rapport au M.2 (environ 90/100€ le To)
-  **+** Plus résistant aux chocs/mouvements (car aucune pièces mécaniques)
+  **+** Bien plus rapide qu'un disque dur. (Environ 4 à 5 fois plus rapide)  
+  **+** Prix raisonnable par rapport au M.2 (environ 90/100€ le To)  
+  **+** Plus résistant aux chocs/mouvements (car aucune pièces mécaniques)  
   
-  **-** Moins rapide que son successeur (le M.2 NVMe)
+  **-** Moins rapide que son successeur (le M.2 NVMe)  
   
 - **SSD M.2 :**
     Le port M.2 est un port intégré récemment dans les cartes mères, il est vraiment très compact et permet un gain de place énorme :
@@ -409,12 +409,12 @@ Dans cette même catégorie, il y a aujourd'hui deux formats qui sont disponible
     Les vitesses de transferts sont de l'ordre d'environ 3 Go/s en PCIe 3.0 et allant jusqu'à 7Go/s pour le PCIe 4.0
     *Pour vous dire, les SSD SATA sont aux alentours des 520 Mo/s soit preque 10 fois moins !*
 
-    **+** Performances à crever le plafond
-    **+** Très compact
-    **+** Plus résistant au chocs/mouvement qu'un disque dur
+    **+** Performances à crever le plafond  
+    **+** Très compact  
+    **+** Plus résistant au chocs/mouvement qu'un disque dur  
     
-    **-** Prix très élevé (150€ voir 200€ le To pour les PCIe 4.0)
-    **-** Durée de vie plus courte qu'un disque dur
+    **-** Prix très élevé (150€ voir 200€ le To pour les PCIe 4.0)  
+    **-** Durée de vie plus courte qu'un disque dur  
 
 ## Conseils pour bien choisir :
 
@@ -422,11 +422,11 @@ Comme d'habitude, il y a plusieurs facteurs à prendre en compte avant d'acheter
 
 - Les Normes (SSD)
   Il Existe plusieurs normes qui sont : QLC, TLC et MLC.
-  Ces normes établissent comment les données seront réparties dans le SSD.
+  Ces normes établissent comment les données seront réparties dans le SSD.  
   
-  QLC : Je la recommande le moins possible. C'est celle qui sature le plus rapidement et qui a la durée de vie la moins longue.
-  TLC : La plus commune, elle a un super rapport qualité/prix et conviendra à tout le monde.
-  MLC : La plus performante partout, mais aussi la plus cher de toute.
+  QLC : Je la recommande le moins possible. C'est celle qui sature le plus rapidement et qui a la durée de vie la moins longue.  
+  TLC : La plus commune, elle a un super rapport qualité/prix et conviendra à tout le monde.  
+  MLC : La plus performante partout, mais aussi la plus cher de toute.  
   
 - Le cache DRAM (SSD)
   C'est un point assez simple, il suffit de faire attention à ce que votre SSD soit equipé d'un cache DRAM. Si ce n'est pas indiqué n'hésitez pas à demander. Cela fait en sorte que votre SSD soit saturé moins rapidement et moins souvent, en plus d'aider votre processeur dans certaines tâches de transfert/décompression.
@@ -446,7 +446,7 @@ SSD en petit budget : [Kingston A400](https://amzn.to/2GuKxYc) ou [Crucial BX500
 
 HDD : [Seagate Barracuda 7200rpm](https://amzn.to/2TNQbr8)
 
-SSD M.2 NVMe : [Samsung 970 EVO](https://amzn.to/34T3OvL) ou [EVO Plus](https://www.amazon.fr/dp/B07MHXYL6T/) (Sinon [Kingston A2000](https://amzn.to/364mEiZ))
+SSD M.2 NVMe : [Samsung 970 EVO](https://amzn.to/34T3OvL) ou [EVO Plus](https://www.amazon.fr/dp/B07MHXYL6T/) (Sinon [Kingston A2000](https://amzn.to/364mEiZ))  
 SSD M.2 NVMe (pci-e 4.0) : [Samsung 980 Pro](https://amzn.to/388kPUA), [Sabrent Rocket 4](https://amzn.to/3oSCgi2)
 
 La taille du stockage c'est selon vos besoin mais le mix 1To HDD + 240/250Go SSD est bon pour commencer si on a un peu de budget. 
@@ -459,9 +459,9 @@ Effectivement, c'est quand même mieux si on a de quoi tout alimenter ! C'est l�
 
 ## Puissance de l'alimentation
 
-L'une des premières choses qu'on va regarder avant de choisir une alimentation, c'est la puissance. Donc il va falloir calculer la puissance dont votre PC aura besoin, plusieurs sites proposent des calculateurs ([BeQuiet PSU Calculator](https://www.bequiet.com/en/psucalculator) Ou [Seasonic Calculator](https://seasonic.com/wattage-calculator)).
-Le calculateur Seasonic est un peu plus complexe mais aussi plus précis. Il faut bien préciser chaque composants, Processeur, Carte Graphique, La RAM ou encore d'autres périphériques SATA ou PCIe pour être large. 
-**Donnez-vous un maximum de marge !** C'est toujours mieux de ne pas avoir une alimentation à la limite de ce qui est calculé. Déjà pour ne pas avoir à la changer lors d'une upgrade de certains composants, mais aussi le fait que certains composant peuvent avoir des pics de consommation qui, si l'alimentation n'est pas assez puissante, déclenchera le système de sécurité de l'alim.
+L'une des premières choses qu'on va regarder avant de choisir une alimentation, c'est la puissance. Donc il va falloir calculer la puissance dont votre PC aura besoin, plusieurs sites proposent des calculateurs ([BeQuiet PSU Calculator](https://www.bequiet.com/en/psucalculator) Ou [Seasonic Calculator](https://seasonic.com/wattage-calculator)).  
+Le calculateur Seasonic est un peu plus complexe mais aussi plus précis. Il faut bien préciser chaque composants, Processeur, Carte Graphique, La RAM ou encore d'autres périphériques SATA ou PCIe pour être large.  
+**Donnez-vous un maximum de marge !** C'est toujours mieux de ne pas avoir une alimentation à la limite de ce qui est calculé. Déjà pour ne pas avoir à la changer lors d'une upgrade de certains composants, mais aussi le fait que certains composant peuvent avoir des pics de consommation qui, si l'alimentation n'est pas assez puissante, déclenchera le système de sécurité de l'alim.  
 
 **TL;DR :** Prenez toujours au dessus de ce que le calculateur vous donne, de 50W à 100W au dessus (Si il vous conseille une 550w, prenez 600w voir 650w)
 
@@ -570,19 +570,19 @@ Autres conseils : Évitez les vidéo du type 'JE MONTE CE PC DE 10000€' ou tou
 
 Les chaines que je vous recommande pour suivre l'actu, vous renseigner ou avoir des tutos régulièrement :
 
-- [Ryan TM](https://bit.ly/3ex0rxz)
-- [DiscoverID](https://bit.ly/3p5a1wL)
-- [Tech_Sama](https://bit.ly/32k5mNt)
-- (En Anglais) [Linus Tech Tips](https://bit.ly/32iRNhc), [Bitwit](https://bit.ly/3k1Udab), [Gamers Nexus](https://bit.ly/3l43eRt) ou [Hardware Unboxed](https://bit.ly/32fBzp5) pour les benchs
+:+1: [Ryan TM](https://bit.ly/3ex0rxz)  
+:+1: [DiscoverID](https://bit.ly/3p5a1wL)  
+:+1: [Tech_Sama](https://bit.ly/32k5mNt)  
+:+1: (En Anglais) [Linus Tech Tips](https://bit.ly/32iRNhc), [Bitwit](https://bit.ly/3k1Udab), [Gamers Nexus](https://bit.ly/3l43eRt) ou [Hardware Unboxed](https://bit.ly/32fBzp5) pour les benchs  
 
-Aussi, regardez sur les sites tels que [VideoCardz](https://videocardz.com/), [cowcotland](https://www.cowcotland.com/), [tomshardware](https://www.tomshardware.fr/) ou [Overcloking.com](https://overclocking.com/))
+Aussi, regardez sur les sites tels que [VideoCardz](https://videocardz.com/), [cowcotland](https://www.cowcotland.com/), [tomshardware](https://www.tomshardware.fr/) ou [Overcloking.com](https://overclocking.com/))  
 
 Celles que je ne recommande pas :
 
-- French Hardware
-- LéoTechMaker
-- Les chaines des sites de ventes, sauf pour monter son PC (LDLC, Top Achat)
-- Guillaume (Sauf pour les périphériques externes)
+:-1: French Hardware  
+:-1: LéoTechMaker  
+:-1: Les chaines des sites de ventes, sauf pour monter son PC (LDLC, Top Achat)  
+:-1: Guillaume (Sauf pour les périphériques externes)  
 
 ### Petits conseils d'achat en vitesse :
 
@@ -607,7 +607,7 @@ Je vous laisse avec les crédit des gens qui m'ont aidé pour faire ça et ensui
 
 Idée et écriture/recherches : **Geckono**
 
-*Aide aux recherches : **[Lackoff_](https://pastebin.com/raw/L0VP1iTf)***
+*Aide aux recherches : **[Lackoff_](https://pastebin.com/raw/L0VP1iTf)***  
 *Mise en page (markdown) : **[Lackoff_](https://pastebin.com/raw/L0VP1iTf)***
 
 # Lexique
