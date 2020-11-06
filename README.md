@@ -43,7 +43,7 @@ Pour bien choisir un pc, il faut bien choisir ses composants ça va de soit, et 
 * [VII. Le Boitier](#Le-Boitier)
     * [La Taille](#La-Taille-)
     * [Le Refroidissement](#L’Airflow-ou-le-Refroidissement)
-    * [Autres Facteurs de choix](#Fonctionnalités1)
+    * [Autres Facteurs de choix](#fonctionnalités-1)
 * [VIII. Montage du PC](#Le-Montage-du-PC)
 * [IX. Lexique](#Lexique)
 
