@@ -285,11 +285,11 @@ Contrairement à ce que vous pouvez croire, non ce n'est pas une chaussette un p
 
 - Pour AMD :
   *Anciens/Obsolètes :AM2+, AM3, AM3+*
-  Actuels : AM4 (Ryzen), TR4 (Threadripper)
+Actuels : AM4 (Ryzen), TR4 (Threadripper)
   
 - Pour Intel : 
   *Anciens/Obsolètes : LGA 1155, 1150, 2011*
-  Actuels : LGA 1151, LGA 2066, *LGA 1200*
+Actuels : LGA 1151, LGA 2066, *LGA 1200*
   
 Jusqu'ici tout vas bien, il suffit de vérifier la compatibilité avec le processeur.
 
